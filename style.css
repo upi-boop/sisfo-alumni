@@ -1,0 +1,17 @@
+.carousel-item {
+	height:600px;
+
+}
+.carousel-item img {
+	margin-top:-70px;
+}
+.carousel-item .display-4{
+	margin-top : -440px;
+
+}
+
+.nav-link:hover{
+
+   background-color: grey;
+  
+}
